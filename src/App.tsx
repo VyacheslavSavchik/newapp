@@ -21,6 +21,8 @@ function App() {
 
     const deleteHandler = () => {
         setState([])
+
+
     }
 
     const showPostsHandler = () => {
